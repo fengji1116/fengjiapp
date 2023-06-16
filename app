@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "index/index",
+    "apply/apply",
+    "products/products",
+    "calculator/calculator",
+    "contact/contact"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}
